@@ -3,7 +3,7 @@
 
 # 🎬 FlickStack
 
-FlickStack is a full-stack movie and actor management app built using **React**, **Express**, and **MySQL**. It allows you to create, edit, and view movies and their associated actors, while auto-fetching genres from TMDB based on movie title.
+FlickStack is a full-stack movie and actor management app built using **React**, **Express**, and **MySQL**. It allows you to create, edit, and view movies and their associated actors
 
 ---
 
@@ -11,7 +11,6 @@ FlickStack is a full-stack movie and actor management app built using **React**,
 
 - 📚 Add / edit / delete movies and actors
 - 🎭 Link multiple actors to each movie and vice versa (many-to-many)
-- 🧠 Auto-fetch two genres using TMDB when creating a movie
 - 🔍 Real-time search for movies and actors
 - 🧱 Backend built with Express + MySQL
 - 🎨 Modern dark UI with modals and reusable components
@@ -22,7 +21,6 @@ FlickStack is a full-stack movie and actor management app built using **React**,
 
 - **Frontend:** React, Vite, Axios, React-Select
 - **Backend:** Node.js, Express, MySQL, node-fetch
-- **External API:** TMDB (The Movie Database)
 - **Styling:** CSS Modules, Dark Theme
 
 ---
