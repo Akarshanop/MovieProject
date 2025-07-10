@@ -68,7 +68,6 @@ DB_HOST=localhost
 DB_PORT=3306
 PORT=5000
 
-TMDB_API_KEY=your_tmdb_key
 
 
 
